@@ -58,7 +58,7 @@
   - [K8s Examples](https://k8s-examples.container-solutions.com/)
 
 ### Python
-- **Link:** [Python Intensive Course](https://www.evernote.com/shard/s658/client/snv?isnewsnv=true&noteGuid=744288f0-6dfc-fda8-db62-0760dcd0cc5f&noteKey=mQG0LndoKH8UJnOju37zNe3MCFDxLMIcR-TiooCI-i1y50Kj84y_68Rwmg&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs658%2Fsh%2F744288f0-6dfc-fda8-db62-0760dcd0cc5f%2FmQG0LndoKH8UJnOju37zNe3MCFDxLMIcR-TiooCI-i1y50Kj84y_68Rwmg&title=N%25E1%25BB%2599i%2Bdung%2Bkho%25C3%25A1%2Bh%25E1%25BB%258Dc%2BPython%2Bintensive%2Bcourse)
+- **Link:** [Python Intensive Course](https://www.evernote.com/shard/s658/sh/7261690d-e829-5b9d-6f17-55b792ab0802/tsuklchVI4BtMzVUYsHQ_hAJ1xJHgx8K29Y29Umt9J76r2g7dHy42ypyFg)
 
 ### Học tập
 - **Link:** [Chia sẻ trải nghiệm học tập](https://yentrinh.hashnode.dev/chia-se-trai-nghiem-hoc-tap)
