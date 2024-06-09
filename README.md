@@ -106,4 +106,4 @@
   - [8 ngày học AWS AppMesh](https://yentrinh.hashnode.dev/8-ngay-hoc-aws-appmesh)
   - [8 ngày học AWS CloudMap](https://yentrinh.hashnode.dev/8-ngay-hoc-aws-cloudmap)
   - [15 ngày học EKS](https://yentrinh.hashnode.dev/15-ngay-hoc-eks)
-  - [AWS Certified Networking Syllabus On Tập](https://yentrinh.hashnode.dev/aws-certified-networking-syllabus-on-tap)
+  - [AWS Certified Networking Syllabus ÔÔn Tập](https://yentrinh.hashnode.dev/aws-certified-networking-syllabus-on-tap)
